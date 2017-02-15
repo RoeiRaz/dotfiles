@@ -20,3 +20,12 @@ set autoindent
 
 " Shows the keys im pressing on normal mode
 set showcmd
+
+" keep the cursor centered wherever possible
+set so=999
+
+" underline the curser current line, for better visibility
+set cursorline
+
+" Color scheme
+colorscheme darkblue
